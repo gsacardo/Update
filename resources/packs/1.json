@@ -1,0 +1,4071 @@
+{
+  "frames": [
+    {
+      "filename": "resources/entities/mobs_md_ghost.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_md_giantbee.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_md_orc.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_md_orc_001.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_md_rockwalker.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_md_rockwalker_001.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1280,
+        "w": 256,
+        "h": 256
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_md_slime.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1536,
+        "w": 256,
+        "h": 256
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_md_slimeevil.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1792,
+        "w": 256,
+        "h": 256
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_md_venustrap.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "frame": {
+        "x": 256,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_md_watcher.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "frame": {
+        "x": 512,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_sm_crab.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 768,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_sm_elemental_air.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 896,
+        "y": 0,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_sm_elemental_earth.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1088,
+        "y": 0,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_sm_elemental_fire.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1280,
+        "y": 0,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_sm_elemental_ice.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1472,
+        "y": 0,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_sm_maggot.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1664,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_sm_miniclops.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1792,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_sm_miniclops_001.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 768,
+        "y": 128,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_sm_orc.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 256,
+        "y": 256,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_sm_orc_001.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 448,
+        "y": 256,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_sm_shroom.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 640,
+        "y": 256,
+        "w": 128,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_sm_skeleton.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 256,
+        "y": 384,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_sm_skeleton_001.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 448,
+        "y": 384,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_sm_slime.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 128,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_sm_slime_001.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1088,
+        "y": 128,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_sm_snake.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1216,
+        "y": 128,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_sm_troll.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 208
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1344,
+        "y": 128,
+        "w": 208,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/mobs_sm_zombie.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1552,
+        "y": 128,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/natural_butterfly_blue.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1744,
+        "y": 192,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/natural_butterfly_purple.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1872,
+        "y": 192,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/natural_butterfly_yellow.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 256,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/natural_chicken.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "frame": {
+        "x": 768,
+        "y": 320,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/natural_cow.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1088,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      }
+    },
+    {
+      "filename": "resources/entities/natural_cow_bell.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1344,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      }
+    },
+    {
+      "filename": "resources/entities/natural_dog.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 896,
+        "y": 384,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/entities/natural_dog_001.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 640,
+        "y": 448,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/entities/npc_chickenman.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1600,
+        "y": 256,
+        "w": 128,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/entities/npc_clown.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1728,
+        "y": 320,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_farmer.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 320,
+        "w": 128,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/entities/npc_generic_001.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1600,
+        "y": 448,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_generic_002.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1792,
+        "y": 448,
+        "w": 128,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/entities/npc_generic_003.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 512,
+        "w": 128,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/entities/npc_generic_004.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 256,
+        "y": 512,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_generic_005.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 448,
+        "y": 512,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_generic_006.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1088,
+        "y": 512,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_generic_007.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 832,
+        "y": 576,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_generic_008.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1280,
+        "y": 512,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_generic_009.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1472,
+        "y": 512,
+        "w": 128,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/entities/npc_generic_010.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1600,
+        "y": 576,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_generic_011.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1792,
+        "y": 640,
+        "w": 128,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/entities/npc_generic_012.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 704,
+        "w": 128,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/entities/npc_generic_013.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1024,
+        "y": 640,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_generic_014.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1216,
+        "y": 640,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_generic_015.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1408,
+        "y": 704,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_generic_016.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1600,
+        "y": 704,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_generic_017.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 256,
+        "y": 640,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_generic_018.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 448,
+        "y": 640,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_generic_019.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 640,
+        "y": 640,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_generic_020.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 832,
+        "y": 704,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_generic_021.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1024,
+        "y": 768,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_guard.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1216,
+        "y": 768,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_guard_blue.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1408,
+        "y": 832,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_guard_bluegold.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1600,
+        "y": 832,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_guard_green.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1792,
+        "y": 832,
+        "w": 128,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/entities/npc_guard_red.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 896,
+        "w": 128,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/entities/npc_guard_yellow.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 256,
+        "y": 768,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_maid.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 448,
+        "y": 768,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_modern_001.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 640,
+        "y": 768,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_modern_002.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 832,
+        "y": 832,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_modern_003.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1024,
+        "y": 896,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_modern_004.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1216,
+        "y": 896,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_modern_005.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1408,
+        "y": 960,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_modern_006.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1600,
+        "y": 960,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_solider.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1792,
+        "y": 1024,
+        "w": 128,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/entities/npc_techsuit_black.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 1088,
+        "w": 128,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/entities/npc_techsuit_blue.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 256,
+        "y": 896,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_techsuit_green.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 448,
+        "y": 896,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_techsuit_pink.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 640,
+        "y": 896,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_techsuit_red.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 832,
+        "y": 960,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_techsuit_yellow.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1024,
+        "y": 1024,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_wizard.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 188
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 188
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1216,
+        "y": 1024,
+        "w": 188,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/entities/npc_wizard_001.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1404,
+        "y": 1088,
+        "w": 192,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/animations/healing.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 512,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 32
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1596,
+        "y": 1088,
+        "w": 32,
+        "h": 512
+      }
+    },
+    {
+      "filename": "resources/animations/rings_reversed.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 288,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 288,
+        "h": 32
+      },
+      "rotated": true,
+      "frame": {
+        "x": 2000,
+        "y": 0,
+        "w": 32,
+        "h": 288
+      }
+    },
+    {
+      "filename": "resources/animations/slashing.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 640,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 64
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1628,
+        "y": 1088,
+        "w": 64,
+        "h": 640
+      }
+    },
+    {
+      "filename": "resources/animations/strike.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 384,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 384,
+        "h": 64
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1692,
+        "y": 1088,
+        "w": 64,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/resources/1_stump.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 160
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1756,
+        "y": 1216,
+        "w": 160,
+        "h": 160
+      }
+    },
+    {
+      "filename": "resources/resources/1_tree blue.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 160
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1756,
+        "y": 1376,
+        "w": 160,
+        "h": 160
+      }
+    },
+    {
+      "filename": "resources/resources/1_tree green.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 160
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1692,
+        "y": 1536,
+        "w": 160,
+        "h": 160
+      }
+    },
+    {
+      "filename": "resources/resources/1_tree red.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 160
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1852,
+        "y": 1536,
+        "w": 160,
+        "h": 160
+      }
+    },
+    {
+      "filename": "resources/resources/1_tree yellow.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 160
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1692,
+        "y": 1696,
+        "w": 160,
+        "h": 160
+      }
+    },
+    {
+      "filename": "resources/resources/2_tree red.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "frame": {
+        "x": 896,
+        "y": 320,
+        "w": 64,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/resources/2_tree yellow.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1024,
+        "y": 576,
+        "w": 64,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/resources/3_tree red.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 64
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1744,
+        "y": 128,
+        "w": 32,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/resources/3_tree yellow.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 64
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1408,
+        "y": 640,
+        "w": 32,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/resources/4_stump.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1692,
+        "y": 1472,
+        "w": 64,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/resources/4_tree blue.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "frame": {
+        "x": 832,
+        "y": 448,
+        "w": 64,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/resources/4_tree green.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "frame": {
+        "x": 832,
+        "y": 512,
+        "w": 64,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/resources/4_tree red.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1916,
+        "y": 1280,
+        "w": 64,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/resources/4_tree yellow.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1980,
+        "y": 1280,
+        "w": 64,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/resources/5_stump.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 96
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1916,
+        "y": 1344,
+        "w": 96,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/resources/5_tree blue.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 96
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1916,
+        "y": 1408,
+        "w": 64,
+        "h": 96
+      }
+    },
+    {
+      "filename": "resources/resources/5_tree green.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 96
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1980,
+        "y": 1408,
+        "w": 64,
+        "h": 96
+      }
+    },
+    {
+      "filename": "resources/resources/5_tree red.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 96
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1852,
+        "y": 1696,
+        "w": 96,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/resources/5_tree yellow.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 96
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1948,
+        "y": 1696,
+        "w": 96,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/resources/6_stump.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 96
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1852,
+        "y": 1760,
+        "w": 96,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/resources/6_tree blue.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1948,
+        "y": 1760,
+        "w": 64,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/resources/6_tree green.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1852,
+        "y": 1824,
+        "w": 64,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/resources/6_tree red.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1916,
+        "y": 1824,
+        "w": 64,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/resources/6_tree yellow.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1980,
+        "y": 1824,
+        "w": 64,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/gui/bag.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 254
+      },
+      "rotated": true,
+      "frame": {
+        "x": 256,
+        "y": 1856,
+        "w": 254,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/gui/bagitem.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 35
+      },
+      "rotated": true,
+      "frame": {
+        "x": 2012,
+        "y": 1344,
+        "w": 35,
+        "h": 34
+      }
+    },
+    {
+      "filename": "resources/gui/bank.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 442,
+        "h": 469
+      },
+      "sourceSize": {
+        "w": 442,
+        "h": 469
+      },
+      "rotated": true,
+      "frame": {
+        "x": 256,
+        "y": 1024,
+        "w": 469,
+        "h": 442
+      }
+    },
+    {
+      "filename": "resources/gui/bankitem.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 35
+      },
+      "rotated": true,
+      "frame": {
+        "x": 2012,
+        "y": 1760,
+        "w": 35,
+        "h": 34
+      }
+    },
+    {
+      "filename": "resources/gui/character.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 340
+      },
+      "sourceSize": {
+        "w": 220,
+        "h": 340
+      },
+      "rotated": false,
+      "frame": {
+        "x": 725,
+        "y": 1088,
+        "w": 220,
+        "h": 340
+      }
+    },
+    {
+      "filename": "resources/gui/charactericon.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 2000,
+        "y": 288,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/gui/char_selection.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 178,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 178,
+        "h": 79
+      },
+      "rotated": true,
+      "frame": {
+        "x": 945,
+        "y": 1088,
+        "w": 79,
+        "h": 178
+      }
+    },
+    {
+      "filename": "resources/gui/chatbar.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 386,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 386,
+        "h": 25
+      },
+      "rotated": false,
+      "frame": {
+        "x": 256,
+        "y": 1728,
+        "w": 386,
+        "h": 25
+      }
+    },
+    {
+      "filename": "resources/gui/chatbox.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 386,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 386,
+        "h": 162
+      },
+      "rotated": false,
+      "frame": {
+        "x": 510,
+        "y": 1856,
+        "w": 386,
+        "h": 162
+      }
+    },
+    {
+      "filename": "resources/gui/checkboxempty.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 25
+      },
+      "rotated": false,
+      "frame": {
+        "x": 2012,
+        "y": 1378,
+        "w": 24,
+        "h": 25
+      }
+    },
+    {
+      "filename": "resources/gui/checkboxfull.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 25
+      },
+      "rotated": false,
+      "frame": {
+        "x": 2012,
+        "y": 1794,
+        "w": 24,
+        "h": 25
+      }
+    },
+    {
+      "filename": "resources/gui/closeclicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 26,
+        "h": 25
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1440,
+        "y": 640,
+        "w": 26,
+        "h": 25
+      }
+    },
+    {
+      "filename": "resources/gui/closehover.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 26,
+        "h": 25
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1440,
+        "y": 665,
+        "w": 26,
+        "h": 25
+      }
+    },
+    {
+      "filename": "resources/gui/closelargeclicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1916,
+        "y": 1504,
+        "w": 34,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/gui/closelargehover.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1950,
+        "y": 1504,
+        "w": 34,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/gui/closelargenormal.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1984,
+        "y": 1504,
+        "w": 34,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/gui/closenormal.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 26,
+        "h": 25
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1756,
+        "y": 1088,
+        "w": 26,
+        "h": 25
+      }
+    },
+    {
+      "filename": "resources/gui/control_button.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 28
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 28
+      },
+      "rotated": true,
+      "frame": {
+        "x": 2018,
+        "y": 1504,
+        "w": 28,
+        "h": 120
+      }
+    },
+    {
+      "filename": "resources/gui/control_button_clicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 28
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 28
+      },
+      "rotated": false,
+      "frame": {
+        "x": 510,
+        "y": 2018,
+        "w": 120,
+        "h": 28
+      }
+    },
+    {
+      "filename": "resources/gui/control_button_hovered.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 28
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 28
+      },
+      "rotated": false,
+      "frame": {
+        "x": 630,
+        "y": 2018,
+        "w": 120,
+        "h": 28
+      }
+    },
+    {
+      "filename": "resources/gui/craftbar.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 247,
+        "h": 5
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 5
+      },
+      "rotated": true,
+      "frame": {
+        "x": 2032,
+        "y": 0,
+        "w": 5,
+        "h": 247
+      }
+    },
+    {
+      "filename": "resources/gui/crafting.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 442,
+        "h": 469
+      },
+      "sourceSize": {
+        "w": 442,
+        "h": 469
+      },
+      "rotated": true,
+      "frame": {
+        "x": 896,
+        "y": 1600,
+        "w": 469,
+        "h": 442
+      }
+    },
+    {
+      "filename": "resources/gui/craftitem.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 35
+      },
+      "rotated": true,
+      "frame": {
+        "x": 2012,
+        "y": 1624,
+        "w": 35,
+        "h": 34
+      }
+    },
+    {
+      "filename": "resources/gui/createchar_window.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 452,
+        "h": 198
+      },
+      "sourceSize": {
+        "w": 452,
+        "h": 198
+      },
+      "rotated": false,
+      "frame": {
+        "x": 256,
+        "y": 1466,
+        "w": 452,
+        "h": 198
+      }
+    },
+    {
+      "filename": "resources/gui/credits_window.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 452,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 452,
+        "h": 262
+      },
+      "rotated": false,
+      "frame": {
+        "x": 945,
+        "y": 1266,
+        "w": 452,
+        "h": 262
+      }
+    },
+    {
+      "filename": "resources/gui/edit_controls_clicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 24
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1024,
+        "y": 1216,
+        "w": 200,
+        "h": 24
+      }
+    },
+    {
+      "filename": "resources/gui/edit_controls_hovered.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 24
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1024,
+        "y": 1240,
+        "w": 200,
+        "h": 24
+      }
+    },
+    {
+      "filename": "resources/gui/edit_controls_normal.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 24
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1224,
+        "y": 1216,
+        "w": 200,
+        "h": 24
+      }
+    },
+    {
+      "filename": "resources/gui/emptybar.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 168,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 168,
+        "h": 16
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1984,
+        "y": 0,
+        "w": 16,
+        "h": 168
+      }
+    },
+    {
+      "filename": "resources/gui/entitybox.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 314,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 314,
+        "h": 126
+      },
+      "rotated": true,
+      "frame": {
+        "x": 725,
+        "y": 1428,
+        "w": 126,
+        "h": 314
+      }
+    },
+    {
+      "filename": "resources/gui/entitybox_smtop.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 314,
+        "h": 119
+      },
+      "sourceSize": {
+        "w": 314,
+        "h": 119
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1365,
+        "y": 1856,
+        "w": 314,
+        "h": 119
+      }
+    },
+    {
+      "filename": "resources/gui/equipmentitem.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 36,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 36,
+        "h": 36
+      },
+      "rotated": false,
+      "frame": {
+        "x": 2012,
+        "y": 1658,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "filename": "resources/gui/error_window.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 452,
+        "h": 198
+      },
+      "sourceSize": {
+        "w": 452,
+        "h": 198
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1397,
+        "y": 1240,
+        "w": 198,
+        "h": 452
+      }
+    },
+    {
+      "filename": "resources/gui/eventresponsecdisabled.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 496,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 496,
+        "h": 44
+      },
+      "rotated": false,
+      "frame": {
+        "x": 851,
+        "y": 1528,
+        "w": 496,
+        "h": 44
+      }
+    },
+    {
+      "filename": "resources/gui/eventresponseclicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 496,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 496,
+        "h": 44
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1365,
+        "y": 1975,
+        "w": 496,
+        "h": 44
+      }
+    },
+    {
+      "filename": "resources/gui/eventresponsehover.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 496,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 496,
+        "h": 44
+      },
+      "rotated": false,
+      "frame": {
+        "x": 256,
+        "y": 1753,
+        "w": 496,
+        "h": 44
+      }
+    },
+    {
+      "filename": "resources/gui/eventresponsenormal.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 496,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 496,
+        "h": 44
+      },
+      "rotated": false,
+      "frame": {
+        "x": 256,
+        "y": 1797,
+        "w": 496,
+        "h": 44
+      }
+    },
+    {
+      "filename": "resources/gui/expbar.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 168,
+        "h": 14
+      },
+      "sourceSize": {
+        "w": 168,
+        "h": 14
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1424,
+        "y": 1216,
+        "w": 168,
+        "h": 14
+      }
+    },
+    {
+      "filename": "resources/gui/friendsicon.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1347,
+        "y": 1528,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/gui/gamemenu.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 289,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 289,
+        "h": 42
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1024,
+        "y": 1152,
+        "w": 289,
+        "h": 42
+      }
+    },
+    {
+      "filename": "resources/gui/hotbar.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 409,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 409,
+        "h": 42
+      },
+      "rotated": false,
+      "frame": {
+        "x": 256,
+        "y": 1664,
+        "w": 409,
+        "h": 42
+      }
+    },
+    {
+      "filename": "resources/gui/hotbaritem.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 35
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1347,
+        "y": 1560,
+        "w": 34,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/gui/hpbar.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 168,
+        "h": 14
+      },
+      "sourceSize": {
+        "w": 168,
+        "h": 14
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1224,
+        "y": 1240,
+        "w": 168,
+        "h": 14
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_charselect.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1679,
+        "y": 1856,
+        "w": 154,
+        "h": 87
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_charselect_clicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1833,
+        "y": 1888,
+        "w": 154,
+        "h": 87
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_charselect_disabled.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1365,
+        "y": 1728,
+        "w": 154,
+        "h": 87
+      }
+    },
+    {
+      "filename": "resources/gui/ingame_charselect_hovered.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 154
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1519,
+        "y": 1692,
+        "w": 87,
+        "h": 154
+      }
+    },
+    {
+      "filename": "resources/gui/inputfield.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 308,
+        "h": 28
+      },
+      "sourceSize": {
+        "w": 308,
+        "h": 28
+      },
+      "rotated": false,
+      "frame": {
+        "x": 851,
+        "y": 1572,
+        "w": 308,
+        "h": 28
+      }
+    },
+    {
+      "filename": "resources/gui/inputfield_newchar.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 28
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 28
+      },
+      "rotated": true,
+      "frame": {
+        "x": 851,
+        "y": 1600,
+        "w": 28,
+        "h": 216
+      }
+    },
+    {
+      "filename": "resources/gui/inputfield_slim.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 308,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 308,
+        "h": 22
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1024,
+        "y": 1194,
+        "w": 308,
+        "h": 22
+      }
+    },
+    {
+      "filename": "resources/gui/inventoryicon.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1595,
+        "y": 1600,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/gui/inventoryitem.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 35
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1756,
+        "y": 1113,
+        "w": 35,
+        "h": 34
+      }
+    },
+    {
+      "filename": "resources/gui/leftarrowclicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 35
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1595,
+        "y": 1632,
+        "w": 30,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/gui/leftarrowhover.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 35
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1756,
+        "y": 1147,
+        "w": 35,
+        "h": 30
+      }
+    },
+    {
+      "filename": "resources/gui/leftarrownormal.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 35
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1756,
+        "y": 1177,
+        "w": 35,
+        "h": 30
+      }
+    },
+    {
+      "filename": "resources/gui/manabar.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 168,
+        "h": 14
+      },
+      "sourceSize": {
+        "w": 168,
+        "h": 14
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1381,
+        "y": 1528,
+        "w": 14,
+        "h": 168
+      }
+    },
+    {
+      "filename": "resources/gui/menuicon.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1313,
+        "y": 1152,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/gui/menuitem.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 35
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1345,
+        "y": 1152,
+        "w": 35,
+        "h": 34
+      }
+    },
+    {
+      "filename": "resources/gui/options_dropdown.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 29
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 29
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1365,
+        "y": 2019,
+        "w": 200,
+        "h": 29
+      }
+    },
+    {
+      "filename": "resources/gui/partyicon.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 30
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1332,
+        "y": 1186,
+        "w": 30,
+        "h": 30
+      }
+    },
+    {
+      "filename": "resources/gui/questsicon.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 642,
+        "y": 1706,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/gui/rightarrowclicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 35
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1362,
+        "y": 1186,
+        "w": 35,
+        "h": 30
+      }
+    },
+    {
+      "filename": "resources/gui/rightarrowhover.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 35
+      },
+      "rotated": false,
+      "frame": {
+        "x": 665,
+        "y": 1664,
+        "w": 30,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/gui/rightarrownormal.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 35
+      },
+      "rotated": false,
+      "frame": {
+        "x": 695,
+        "y": 1664,
+        "w": 30,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/gui/shieldbar.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 168,
+        "h": 14
+      },
+      "sourceSize": {
+        "w": 168,
+        "h": 14
+      },
+      "rotated": true,
+      "frame": {
+        "x": 708,
+        "y": 1466,
+        "w": 14,
+        "h": 168
+      }
+    },
+    {
+      "filename": "resources/gui/shopitem.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 35
+      },
+      "rotated": true,
+      "frame": {
+        "x": 674,
+        "y": 1699,
+        "w": 35,
+        "h": 34
+      }
+    },
+    {
+      "filename": "resources/gui/smallbutton.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 35
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1395,
+        "y": 1692,
+        "w": 96,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/gui/smallbutton_clicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 35
+      },
+      "rotated": false,
+      "frame": {
+        "x": 752,
+        "y": 1816,
+        "w": 96,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/gui/smallbutton_disabled.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 35
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1365,
+        "y": 1815,
+        "w": 96,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/gui/smallbutton_hovered.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 35
+      },
+      "rotated": false,
+      "frame": {
+        "x": 725,
+        "y": 1024,
+        "w": 96,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/gui/spellicon.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 848,
+        "y": 1816,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/gui/spellitem.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 35
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1461,
+        "y": 1815,
+        "w": 34,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/gui/status.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 35
+      },
+      "rotated": false,
+      "frame": {
+        "x": 752,
+        "y": 1742,
+        "w": 34,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/gui/statusbg.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 20
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 20
+      },
+      "rotated": false,
+      "frame": {
+        "x": 256,
+        "y": 1706,
+        "w": 200,
+        "h": 20
+      }
+    },
+    {
+      "filename": "resources/gui/tooltip.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 24
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1380,
+        "y": 1152,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "filename": "resources/gui/tradeitem.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 35
+      },
+      "rotated": false,
+      "frame": {
+        "x": 752,
+        "y": 1777,
+        "w": 34,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/faces/base.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "frame": {
+        "x": 786,
+        "y": 1742,
+        "w": 64,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/faces/base_f.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "frame": {
+        "x": 851,
+        "y": 1428,
+        "w": 64,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/faces/face.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1606,
+        "y": 1728,
+        "w": 64,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/faces/face_f.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1606,
+        "y": 1792,
+        "w": 64,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/faces/pirate.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1861,
+        "y": 1975,
+        "w": 64,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/faces/pirate_f.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1925,
+        "y": 1975,
+        "w": 64,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/items/arrow_01.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 851,
+        "y": 1492,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/items/axe_01.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 883,
+        "y": 1492,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/items/axe_02.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1679,
+        "y": 1943,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/items/axe_03.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1711,
+        "y": 1943,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/items/axe_04.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1743,
+        "y": 1943,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/items/axe_05.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1775,
+        "y": 1943,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/items/axe_06.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1987,
+        "y": 1888,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/items/axe_07.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1987,
+        "y": 1920,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/items/axe_08.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1989,
+        "y": 1952,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/items/axe_09.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1989,
+        "y": 1984,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/items/axe_10.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1989,
+        "y": 2016,
+        "w": 32,
+        "h": 32
+      }
+    }
+  ],
+  "meta": {
+    "image": "1.png",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    }
+  }
+}
